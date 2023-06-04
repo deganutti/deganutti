@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Hoje estou trabalhando como analista de suporte.
+- 🔭 Hoje estou trabalhando como Analista Mobile.
 - 🌱 Estudando back-end com nodeJs.
 - 👯 Trabalho na empresa PCHelp Sistemas.
 - 💬 Fale comigo através deganutti@outlook.com.br
