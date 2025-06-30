@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Hoje estou trabalhando como Analista Mobile.
-- 🌱 Estudando back-end com nodeJs.
-- 👯 Trabalho na empresa PCHelp Sistemas.
+- 🔭 Sou Técnico em Agropecuária.
+- 🌱 Futuro Engenheiro Agronomo.
+- 👯 Trabalho na empresa Cooperativa Cocari.
 - 💬 Fale comigo através deganutti@outlook.com.br
 - 📫 Você pode acessar meu CV em https://deganutti.github.io
 - ❤ Obrigado por estar aqui. 
